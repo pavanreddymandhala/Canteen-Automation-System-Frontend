@@ -1,0 +1,224 @@
+.register-container {
+
+    background-color: rgb(228, 225, 225);
+  
+  
+    background-repeat: no-repeat;
+  
+    background-attachment: fixed;
+  
+    background-size: 100% 100%;
+  
+    display: flex;
+  
+    height: 200vh;
+  
+    justify-content: center;
+  
+    align-items: center;
+  
+  }
+  
+  /* img{
+  
+    align-items: center;
+  
+  
+  
+  } */
+  
+  
+  
+  .register-form {
+  
+    display: flex;
+  
+    flex-direction: column;
+  
+    min-width: 40vw;
+  
+    background-color: aliceblue;
+  
+  }
+  
+  
+  
+  h3 {
+  
+    text-transform: uppercase;
+  
+    text-align: center;
+  
+  }
+  
+  
+  
+  .bottom-link {
+  
+    text-decoration: none;
+  
+    color: black;
+  
+  }
+  
+  
+  
+  .field {
+  
+    background-color: lightgray;
+  
+    width: 50%;
+  
+    border-radius: 5px;
+  
+    align-items: center;
+  
+    padding-top: 2%;
+  
+    padding-bottom: 2%;
+  
+  }
+  
+  
+  
+  .Login {
+  
+    padding-top: 10%;
+  
+    background-color: rgb(210, 213, 220);
+  
+  }
+  
+  
+  
+  button:hover {
+  
+    background-color: brown;
+  
+  }
+  
+  
+  
+  .adminlogin {
+  
+    padding-left: 10%;
+  
+    padding-left: 30%;
+  
+    align-items: center;
+  
+    display: flex;
+  
+    justify-content: center;
+  
+    height: 78vh;
+  
+  }
+  
+  
+  
+  
+  .navbarDashboard {
+  
+    background-color: olivedrab;
+  
+    height: 70px;
+  
+    color: black;
+  
+  
+  
+  }
+  
+  
+  
+  .navbarDashboard ul {
+  
+    overflow: auto;
+  
+  }
+  
+  
+  
+  .navbarDashboard li {
+  
+    float: left;
+  
+    list-style: none;
+  
+    margin: 13px 20px;
+  
+    font-size: 18px;
+  
+    line-height: 44px;
+  
+  
+  
+  }
+  
+  
+  
+  .navbarDashboard li a {
+  
+    padding: 3px 3px;
+  
+  
+  
+  
+  }
+  
+  .profile-container{
+  
+   
+  
+    background-color: rgb(228, 225, 225);
+  
+    /* background-image: url("https://www.stockton.edu/business/images/tourism-mgmt-tile.jpg"); */
+  
+    background-repeat: no-repeat;
+  
+    background-attachment: fixed;
+  
+    background-size: 100% 100%;
+  
+    /* display: flex; */
+  
+    height: 50vh;
+  
+    justify-content: center;
+  
+    align-items: center;
+  
+  
+  
+   
+  
+  }
+  
+  body{
+  
+    background-image: url("https://i.pinimg.com/originals/b6/ab/0c/b6ab0c8276675c2724b76f7123a98cc3.jpg");
+  
+   
+  
+    background-repeat: no-repeat;
+  
+    background-attachment: fixed;
+  
+    background-size: 100% 100%;
+  
+  }
+  
+  .card{
+  
+    width: 30%;
+  
+    background-color: linen;
+  
+    /* justify-content: center;
+  
+    align-items: center; */
+  
+  
+  
+  }
